@@ -1,2 +1,3 @@
 # taufiq-site
- Demo site for Taufiq
+ Demo site for Taufiq.
+ GitHub excersise.
